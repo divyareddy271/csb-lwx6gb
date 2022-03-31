@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://divyareddy271.github.io/csb-lwx6gb/static/css/main.01923b4d.chunk.css",
+    "main.js": "https://divyareddy271.github.io/csb-lwx6gb/static/js/main.c3d99bb3.chunk.js",
+    "main.js.map": "https://divyareddy271.github.io/csb-lwx6gb/static/js/main.c3d99bb3.chunk.js.map",
+    "runtime-main.js": "https://divyareddy271.github.io/csb-lwx6gb/static/js/runtime-main.e0a2937f.js",
+    "runtime-main.js.map": "https://divyareddy271.github.io/csb-lwx6gb/static/js/runtime-main.e0a2937f.js.map",
+    "static/js/2.a0037086.chunk.js": "https://divyareddy271.github.io/csb-lwx6gb/static/js/2.a0037086.chunk.js",
+    "static/js/2.a0037086.chunk.js.map": "https://divyareddy271.github.io/csb-lwx6gb/static/js/2.a0037086.chunk.js.map",
+    "index.html": "https://divyareddy271.github.io/csb-lwx6gb/index.html",
+    "static/css/main.01923b4d.chunk.css.map": "https://divyareddy271.github.io/csb-lwx6gb/static/css/main.01923b4d.chunk.css.map",
+    "static/js/2.a0037086.chunk.js.LICENSE.txt": "https://divyareddy271.github.io/csb-lwx6gb/static/js/2.a0037086.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0a2937f.js",
+    "static/js/2.a0037086.chunk.js",
+    "static/css/main.01923b4d.chunk.css",
+    "static/js/main.c3d99bb3.chunk.js"
+  ]
+}
